@@ -12,14 +12,15 @@
     "react-dom": "^0.14.1"
   },
   "devDependencies": {
-    "webpack": "^1.12.2",
     "babel-core": "^5.8.30",
     "babel-loader": "^5.3.2",
-    "file-loader": "^0.8.4",
-    "less-loader": "^2.2.1",
     "css-loader": "^0.21.0",
+    "file-loader": "^0.8.4",
+    "less": "^2.5.3",
+    "less-loader": "^2.2.1",
     "style-loader": "^0.13.0",
-    "url-loader": "^0.5.6"
+    "url-loader": "^0.5.6",
+    "webpack": "^1.12.2"
   },
   "author": "Ohgyun Ahn <ohgyun@gmail.com>",
   "license": "MIT"
