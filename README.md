@@ -11,6 +11,7 @@ What's included:
 ## Installation
 
 ```
+$ npm install -g webpack
 $ npm install
 ```
 
@@ -26,7 +27,6 @@ $ webpack
 
 ```
 $ open src/index.html
-
 ```
 
 ## Dependencies
